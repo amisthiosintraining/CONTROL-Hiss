@@ -3,8 +3,7 @@ Very old retexture that ilikedetectives and I did themed around Hades and the Hi
 
 <img src="https://imgur.com/1LwJ5Us.png" alt="Astral Dive" style="height:200px;"> <img src="https://imgur.com/Ah09dZr.png" alt="Astral Dive" style="height:200px;"> <img src="https://imgur.com/H7cRuo2.png" alt="Asynchronous Suit" style="height:200px;"> <img src="https://imgur.com/yziag7A.png" alt="Asynchronous Suit" style="height:200px;"> <img src="https://imgur.com/mbs8CRw.png" alt="Director's Suit" style="height:200px;"> <img src="https://imgur.com/BVcFrNz.png" alt="Tactical Response" style="height:200px;"> <img src="https://imgur.com/auKh0TL.png" alt="Tactical Response" style="height:200px;">
 
-Installation
-------
+## Installation
 1) You will <a href="https://www.nexusmods.com/control/mods/11">NEED Loose File Loader</a> in order to install these mods.
 2) If you haven't obtained the PS4 exclusive outfits (Urban Response, Astral Dive, Tactical Response) or others please refer to Fallbob's page <a href="https://www.nexusmods.com/control/mods/33">here</a> on how to acquire them.
 3) Go into Textures folder and pick the design/recolour you want to use.
@@ -14,8 +13,7 @@ Installation
 `C:\Epic Games\Control`
 <br>`C:\SteamLibrary\steamapps\common\Control`
 
-Uninstallation
-------
+## Uninstallation
 Go to where you installed the mod either C: or D: or wherever you have your game installed.
 
 Example: `C:\Epic Games\Control\data_pc`,
